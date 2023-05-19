@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marek38
 - 👀 I’m interested in programming aplications.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning how to stay alive.
 - 💞️ I’m looking to collaborate on my projects.
 
 
