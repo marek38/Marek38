@@ -11,7 +11,7 @@
 
 - 🤝 I’m currently working with **ENDER-3-S1-PRO**
 
-- 👨‍💻 Some of my 3D projects are available at [https://makerworld.com/en/u/2516645851](https://makerworld.com/en/u/2516645851)
+- 👨‍💻 Some of my 3D projects [https://makerworld.com/en/u/2516645851](https://makerworld.com/en/u/2516645851)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
